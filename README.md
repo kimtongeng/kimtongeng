@@ -1,26 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2EA3F2&height=180&section=header&text=Eng%20KimTong&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2EA3F2&height=180&section=header&text=Eng%20KimTong&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines=Full-stack+Web+Developer+%F0%9F%92%BB;Laravel+%2B+Vue%2FNuxt+%2B+React%2FNode;Building+POS+%26+Web+Apps+Since+2024" alt="Typing SVG" />
 
 <p>
-  <a href="https://engkimtong.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-engkimtong.vercel.app-2EA3F2?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:engkimtong.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-engkimtong.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://t.me/Kimtongeng" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/eng-kimtong-7b3b60315/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/kim.tong.710?mibextid=LQQJ4d" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Portfolio-engkimtong.vercel.app-2EA3F2?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-engkimtong.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram-Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=kimtongeng&label=Profile%20Views&color=2EA3F2&style=for-the-badge" />
@@ -35,8 +24,9 @@
 name: "Eng KimTong"
 role: "Full-stack Web Developer"
 experience: "2+ years"
-focus: ["Front-end", "Back-end"]
+focus: ["Front-end", "Back-end", "POS Systems"]
 current_job: "Web Developer @ IDG Tech Solutions (2024 - Present)"
+currently_exploring: ["Software Quality Assurance", "Cybersecurity"]
 fun_fact: "I turn ideas into working web apps, one commit at a time 🚀"
 ```
 
