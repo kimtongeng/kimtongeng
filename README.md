@@ -34,9 +34,8 @@
 name: "Eng KimTong"
 role: "Full-stack Web Developer"
 experience: "2+ years"
-focus: ["Front-end", "Back-end", "POS Systems"]
+focus: ["Front-end", "Back-end"]
 current_job: "Web Developer @ IDG Tech Solutions (2024 - Present)"
-currently_exploring: ["Software Quality Assurance", "Cybersecurity"]
 fun_fact: "I turn ideas into working web apps, one commit at a time 🚀"
 ```
 
