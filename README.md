@@ -5,16 +5,16 @@
 </p>
 
 <p align="center">
-  <a href="https://engkimtong.vercel.app/">
+  <a href="https://engkimtong.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-engkimtong.vercel.app-2EA3F2?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:engkimtong.dev@gmail.com">
+  <a href="mailto:engkimtong.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-engkimtong.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://t.me/Kimtongeng">
+  <a href="https://t.me/Kimtongeng" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/eng-kimtong-7b3b60315/">
+  <a href="https://www.linkedin.com/in/eng-kimtong-7b3b60315/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -66,11 +66,11 @@
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://engkimtong.vercel.app/">🌐 Portfolio</a> •
-  <a href="mailto:engkimtong.dev@gmail.com">📧 Email</a> •
-  <a href="https://t.me/Kimtongeng">💬 Telegram</a> •
-  <a href="https://www.linkedin.com/in/eng-kimtong-7b3b60315/">🔗 LinkedIn</a> •
-  <a href="https://www.facebook.com/kim.tong.710?mibextid=LQQJ4d">📘 Facebook</a>
+  <a href="https://engkimtong.vercel.app/" target="_blank">🌐 Portfolio</a> •
+  <a href="mailto:engkimtong.dev@gmail.com" target="_blank">📧 Email</a> •
+  <a href="https://t.me/Kimtongeng" target="_blank">💬 Telegram</a> •
+  <a href="https://www.linkedin.com/in/eng-kimtong-7b3b60315/" target="_blank">🔗 LinkedIn</a> •
+  <a href="https://www.facebook.com/kim.tong.710?mibextid=LQQJ4d" target="_blank">📘 Facebook</a>
 </p>
 
 <p align="center"><i>⭐️ Thanks for stopping by — always open to interesting projects and collaborations!</i></p>
