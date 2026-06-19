@@ -25,8 +25,6 @@
 
 - 💻 Full-stack Web Developer with **2+ years** of experience building responsive, scalable web applications
 - 🛠️ Working across **front-end and back-end** with React, Nuxt, Node.js, and Laravel
-- 🧪 Exploring **Software Quality Assurance** — testing, automation, and reliability
-- 🔒 Currently leveling up in **Cybersecurity**
 - 🏢 Web Developer @ **IDG Tech Solutions** (2024 – Present)
 - 📫 Reach me at **engkimtong.dev@gmail.com**
 
