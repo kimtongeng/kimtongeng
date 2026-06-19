@@ -1,17 +1,17 @@
 <h1 align="center">Hi there, I'm KimTong 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines=Computer+Science+Graduate;Web+Developer+%7C+Laravel+%2B+Vue%2FNuxt;Diving+into+Software+QA;Learning+Cybersecurity+%F0%9F%94%92" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines=Information+Technology+Graduate;Web+Developer+%7C+Laravel+%2B+Vue%2FNuxt;" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="mailto:engkimtong.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-engkimtong.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://t.me/YOUR_USERNAME">
+  <a href="https://t.me/engkimtong">
     <img src="https://img.shields.io/badge/Telegram-Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/engkimtong">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -20,7 +20,7 @@
 
 ### 🎓 About Me
 
-- 🎓 Computer Science Graduate
+- 🎓 Information Technology Graduate
 - 💻 Building things with **Laravel**, **Vue.js**, and **Nuxt.js**
 - 🧪 Exploring **Software Quality Assurance** — testing, automation, and reliability
 - 🔒 Currently leveling up in **Cybersecurity**
@@ -42,25 +42,12 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
 <p align="center">
   <a href="mailto:engkimtong.dev@gmail.com">📧 Email</a> •
-  <a href="https://t.me/YOUR_USERNAME">💬 Telegram</a> •
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">🔗 LinkedIn</a>
+  <a href="https://t.me/engkimtong">💬 Telegram</a> •
+  <a href="https://linkedin.com/in/engkimtong">🔗 LinkedIn</a>
 </p>
 
 <p align="center"><i>⭐️ Thanks for stopping by — always open to interesting projects and collaborations!</i></p>
