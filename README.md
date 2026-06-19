@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm KimTong 👋
 
-<!--
-**kimtongeng/kimtongeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Graduate
 
-Here are some ideas to get you started:
+💻 Web Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧪 Interested in Software Quality Assurance
+
+🔒 Learning Cybersecurity
+
+## Tech Stack
+- Laravel
+- Nuxt.js
+- Vue.js
+- MySQL
+- Docker
+- Linux
+
+## Contact
+- Email: engkimtong.dev@gmail.com
+- Telegram: https://t.me/YOUR_USERNAME
+- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
